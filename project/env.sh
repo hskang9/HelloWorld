@@ -1,0 +1,5 @@
+export SLACK_BOT_TOKEN='xoxb-225870750628-fLw5ijhtZ3HOAvuqtczkjyl3'
+export BOT_ID='U6MRLN2JG'
+export CONVERSATION_USERNAME=
+export CONVERSATION_PASSWORD=
+export GOOGLE_APPLICATION_CREDENTIALS="/home/pi/makerton/APIProject-3eecf025813a.json"
